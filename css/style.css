@@ -1,0 +1,118 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+li{
+    list-style: none;
+}
+a,
+a:visited {text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+h1
+h2
+h3
+h4
+h5
+h6 {
+    font-weight: inherit;
+    font-size: inherit;
+}
+img {
+    vertical-align: top;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+li{
+    list-style: none;
+}
+a,
+a:visited {text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+h1
+h2
+h3
+h4
+h5
+h6 {
+    font-weight: inherit;
+    font-size: inherit;
+}
+img {
+    vertical-align: top;
+}
+h1{
+    color: hotpink;
+}
+ul li{
+    color: lightskyblue;
+}
+img{
+    width: 30%;
+}
+.text{
+    color: rgb(92, 84, 10);
+}
+.header{
+    color: lawngreen;
+}
+h2{
+    color: lightgrey;
+}
+div > p {
+    color: orange;
+}
+h3{
+    color: palegoldenrod;
+}
+.content{
+    color: plum;
+}
+span{
+    color: red;
+}
+.content img{
+    width: 50%;
+}
+.content p{
+    color: rgb(91, 10, 10);
+}
+.content .text-1{
+    color: springgreen;
+}
+.content .pc{
+    width: 70%;
+}
+a{
+    color: rgb(10, 1, 1);
+    font-size: 29px;
+}
+.content .text-2{
+    color: cornflowerblue;
+}
+h4{
+    color: cyan;
+}
+.footer p{
+    color: darkorange;
+}
+.footer .text-5{
+    color: darkred;
+}
+.aa >p {
+color: rgb(73, 161, 184);
+}
+.aa .text-6{
+    color: green;
+}
